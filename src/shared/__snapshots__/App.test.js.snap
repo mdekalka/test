@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="jsx-679958061 App"
+>
+  <button
+    className="jsx-679958061 btn"
+  >
+    cliek me
+  </button>
+  <div
+    className="jsx-3029536217"
+  >
+    <div
+      className="jsx-3029536217 text"
+    >
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, harum veniam, laboriosam cupiditate, corporis iste hic blanditiis officia vel in iusto rerum amet qui sunt quos ducimus ullam sint nobis aliquam dicta officiis assumenda. Sit adipisci, dolore eos ullam tempora cumque eligendi. Iste quasi recusandae aut dolorem ipsam quos voluptatibus modi accusamus vero nisi, quaerat reiciendis necessitatibus, odio natus deleniti assumenda odit omnis non ullam, eaque tempore dignissimos placeat. Illum illo debitis, sunt consequatur accusamus provident ipsam, aperiam doloribus soluta deleniti placeat. Maxime.
+      <div
+        className="jsx-3029536217 box"
+      >
+        make div
+      </div>
+    </div>
+  </div>
+</div>
+`;
